@@ -63,7 +63,7 @@ _Since you don't want to leave my profile just yet! Here are a few things you ca
 ❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here Telegram :@DipenSolanki01
 
 ❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Dipen_Solanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dipen-solanki-2b2797240/)](https://www.linkedin.com/in/dipen-solanki-2b2797240/)
-or [![Gmail Badge](https://img.shields.io/badge/-sdiprn302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdipen302@gmail.com)](mailto:sdipen302@gmail.com)
+or [![Gmail Badge](https://img.shields.io/badge/-sdipen302@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sdipen302@gmail.com)](mailto:sdipen302@gmail.com)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/DipenSolanki01?label=Follow&style=social)](https://github.com/DipenSolanki01?tab=followers) 
 and be a part of my journey... and See if I can make it or not!
