@@ -1,23 +1,6 @@
 ### Hi there 👋, I'm [Dipen Solanki](https://github.com/DipenSolanki01) 👨‍💻
 
-<br/>
 
-<a href="https://www.linkedin.com/in/dipen-solanki-2b2797240/">
-  <img align="left" alt="Dipen's Linkedin" width="22px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
-</a>
-
-<a href="http://t.me/DipenSolanki01">
-   @DipenSolanki01
-  <img align="left" alt="Dipen's Telegram" width="22px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667"  />
-</a>
-
-<a href="mailto:sdipen302@gmail.com">
-  <img align="left" alt="Dipen's Email" width="22px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
-</a>
-
-
-<br />
-<br/>
 
 <p>
 A Full Stack JavaScript Developer 🚀 from India. I consider myself as a skilled Python Developer with good debugging skills.
@@ -29,7 +12,7 @@ Things I have recently experimented with : react,nosql..
 Want to become a full-time Software engineer 💸 and an Open Source Contributor ❤️.
 </p>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" />
+  <img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM5MG1hc3ZkZ2wzanFvbmJlbmZjeTgxOGlwZXhscjNkaTVwMW05dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif" />
   
 ### ✨ Quick Facts
 
